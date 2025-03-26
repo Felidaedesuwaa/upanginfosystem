@@ -1,0 +1,8 @@
+in progress:
+
+add buttons for scholar
+
+figure out how to make each button have their infos with the automatic button adder
+
+other 2 buttons (courses, deans) (same with scholar, need mafigure out how automatically adding buttons for
+them and infos na mailabas yung info if u click the button)
